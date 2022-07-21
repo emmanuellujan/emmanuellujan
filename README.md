@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning interatomic potentials in Julia, software composability, differentiable programming, and hpc.
+- 🔭 I’m currently working on [Julia](https://julialang.org/) :muscle:, machine learning interatomic potentials, software composability, differentiable programming, and hpc.
 - 🤔 I’m looking for help with our growing atomistic suite: [AtomisticComposableWorkflows](https://github.com/cesmix-mit/AtomisticComposableWorkflows), [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl), [DFTK.jl](https://docs.dftk.org/stable/), [InteratomicPotentials.jl](https://github.com/cesmix-mit/InteratomicPotentials.jl), [InteratomicBasisPotentials.jl](https://github.com/cesmix-mit/InteratomicBasisPotentials.jl),  [PotentialLearning.jl](https://github.com/cesmix-mit/PotentialLearning.jl), [Atomistic.jl](https://github.com/cesmix-mit/Atomistic.jl), and [LAMMPS.jl](https://cesmix-mit.github.io/LAMMPS.jl).
 - 📫 How to reach me: eljn@mit.edu
 <!--
