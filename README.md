@@ -2,7 +2,7 @@
 
 - :mortar_board: I work at [Julia Lab](https://julia.mit.edu/) :muscle:, MIT.
 - 🔭 I’m currently working on the [CESMIX](https://computing.mit.edu/cesmix/) project, accelerating atomistic simulations through machine learning, software composability, differentiable programming, and high-performance computing.
-- 🤔 I’m looking for help with our growing atomistic suite: [AtomisticComposableWorkflows](https://github.com/cesmix-mit/AtomisticComposableWorkflows), [AtomsBase.jl](https://github.com/JuliaMolSim/AtomsBase.jl), [DFTK.jl](https://docs.dftk.org/stable/), [InteratomicPotentials.jl](https://github.com/cesmix-mit/InteratomicPotentials.jl), [InteratomicBasisPotentials.jl](https://github.com/cesmix-mit/InteratomicBasisPotentials.jl),  [PotentialLearning.jl](https://github.com/cesmix-mit/PotentialLearning.jl), [Atomistic.jl](https://github.com/cesmix-mit/Atomistic.jl), and [LAMMPS.jl](https://cesmix-mit.github.io/LAMMPS.jl).
+- 🤔 I’m looking for help with our growing atomistic suite, in particular you can take a look at [PotentialLearning.jl](https://github.com/cesmix-mit/PotentialLearning.jl) and [InteratomicBasisPotentials.jl](https://github.com/cesmix-mit/InteratomicBasisPotentials.jl).
 - 📫 How to reach me: eljn@mit.edu
 <!--
 **emmanuellujan/emmanuellujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
