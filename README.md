@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 💻 Computational Scientist. Research Software Engineer.
-- 🚀 I work at [Julia Lab](https://julia.mit.edu/) :muscle: MIT
-- ⚛ I’m currently working on the [CESMIX](https://computing.mit.edu/cesmix/) project, accelerating atomistic simulations through machine learning, software composability, differentiable programming, and high-performance computing.
-- 🔭 I’m looking for collaborators to our growing atomistic suite, in particular you can take a look at [PotentialLearning.jl](https://github.com/cesmix-mit/PotentialLearning.jl) and [InteratomicPotentials.jl](https://github.com/cesmix-mit/InteratomicPotentials.jl).
-- 📫 How to reach me: eljn@mit.edu
+- 💻 I'm a Research Scientist at the MIT's Computer Science & Artificial Intelligence Laboratory.
+- ⚛ My research integrates numerical simulation, artificial intelligence, and high-performance computing, with applications in atomistic simulations, geothermal modeling, and computational linear algebra.
+- 📫 How to reach me: eljn@mit.edu.
 <!--
 **emmanuellujan/emmanuellujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
