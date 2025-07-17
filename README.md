@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💻 I'm a Research Scientist at the MIT's Computer Science & Artificial Intelligence Laboratory.
-- ⚛ My research brings together artificial intelligence, simulation, and high‑performance computing, with applications in material science, geothermal energy, and computational linear algebra.
+- ⚛ My research integrates artificial intelligence, simulation, and high-level high‑performance programming—with applications in computational linear algebra, material science, and geothermal energy.
 - 📫 How to reach me: eljn@mit.edu.
 <!--
 **emmanuellujan/emmanuellujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
