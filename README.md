@@ -1,10 +1,8 @@
-### Hi there 👋
+🏛 Research Scientist at MIT’s Computer Science and Artificial Intelligence Laboratory and member of the Julia Lab.
 
-💻 I'm a Research Scientist at the MIT's Computer Science & Artificial Intelligence Laboratory.
+⚛ Research interests integrate artificial intelligence, simulation, and high-level high‑performance programming—with applications in computational linear algebra and materials science.
 
-⚛ My research integrates artificial intelligence, simulation, and high-level high‑performance programming—with applications in computational linear algebra and material science.
-
-📫 How to reach me: eljn@mit.edu.
+✉ eljn@mit.edu
 <!--
 **emmanuellujan/emmanuellujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
